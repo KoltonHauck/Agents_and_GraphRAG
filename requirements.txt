@@ -1,0 +1,9 @@
+openai
+numpy
+pandas
+scikit-learn
+sentence-transformers
+rank-bm25
+faiss-cpu
+neo4j
+matplotlib
